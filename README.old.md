@@ -49,7 +49,7 @@ For any queries, please contact:
 
 - **Name:** [Heet Gabani]
 - **Email:** [heetgabani822@gmail.com]
-- **GitHub:** [[https://github.com/your-github-profile](https://github.com/heetgabani)]
+- **GitHub:** [(https://github.com/heetgabani)]
 - **Linkedin:** [https://linkedin.com/heet-gabani]
 
 Feel free to reach out if you have any questions or need further assistance.
