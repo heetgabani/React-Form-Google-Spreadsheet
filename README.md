@@ -1,70 +1,60 @@
-# Getting Started with Create React App
+# React-Form-Google-Spreadsheet
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Overview
 
-## Available Scripts
+React Form Handling With Google Spreadsheet.
 
-In the project directory, you can run:
+For your understanding, I have added the `Code.gs` code in the `src` folder of the directory. Follow the steps below to set up your Google Spreadsheet to receive form submissions.
 
-### `npm start`
+## Setup Instructions
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Step 1
+Open Google Spreadsheet and go to Extensions > AppScript.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+![Step 1](./src/assets/ss1.png)
 
-### `npm test`
+### Step 2
+Create a new project in the AppScript editor.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![Step 2](./src/assets/ss2.png)
 
-### `npm run build`
+### Step 3
+Copy and paste the `Code.gs` code from the `src` folder into the AppScript editor.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![Step 3](./src/assets/ss3.png)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Step 4
+Save the project and deploy it as a web app. Make sure to select "Anyone" under "Who has access to the app".
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![Step 4](./src/assets/ss4.png)
 
-### `npm run eject`
+### Step 5
+Copy the web app URL.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+![Step 5](./src/assets/ss5.png)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Step 6
+Update your React app to use the copied URL for form submissions.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+![Step 6](./src/assets/ss6.png)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### Step 7
+Test the form to ensure that submissions are recorded in your Google Spreadsheet.
 
-## Learn More
+![Step 7](./src/assets/ss7.png)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Contact
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+For any queries, please contact:
 
-### Code Splitting
+- **Name:** [Heet Gabani]
+- **Email:** [heetgabani822@gmail.com]
+- **GitHub:** [(https://github.com/heetgabani)]
+- **Linkedin:** [https://linkedin.com/heet-gabani]
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Feel free to reach out if you have any questions or need further assistance.
 
-### Analyzing the Bundle Size
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Happy coding!
 
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
