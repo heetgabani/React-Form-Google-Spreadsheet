@@ -47,9 +47,10 @@ Test the form to ensure that submissions are recorded in your Google Spreadsheet
 
 For any queries, please contact:
 
-- **Name:** [Your Name]
-- **Email:** [your.email@example.com]
-- **GitHub:** [https://github.com/your-github-profile](https://github.com/your-github-profile)
+- **Name:** [Heet Gabani]
+- **Email:** [heetgabani822@gmail.com]
+- **GitHub:** [[https://github.com/your-github-profile](https://github.com/heetgabani)]
+- **Linkedin:** [https://linkedin.com/heet-gabani]
 
 Feel free to reach out if you have any questions or need further assistance.
 
